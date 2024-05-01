@@ -1,0 +1,21 @@
+body{
+  margin: 0;
+  background-color: #77b5fe;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+.bg{
+  background-color: white;
+  width: 35%;
+  height: 92vh;
+  margin: auto;
+  margin-top: 2%;
+}
+.grid{
+  display: flex;
+  margin-left: 25px;
+  
+}
